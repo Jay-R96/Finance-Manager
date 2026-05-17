@@ -1,8 +1,8 @@
-#Finance-Manager
+# Finance-Manager
 
 A Finance management system meant to demonstate data handling and calculation
 
-####Stack:
+#### Stack:
 - Python
 - Django
 - Javascript
